@@ -1,4 +1,4 @@
-AI To-Do App — Project Description https://claude.ai/share/4bb6faf7-d793-4e77-81a3-f24e5dbec403The LINK WERKT NIET HELEMAAL BENEDEN STAAN DE OUDE CHATS  AI To-Do App is a smart productivity web application built with HTML, CSS, and JavaScript. It helps users organize their daily tasks, manage priorities, and improve productivity with AI-powered features.
+AI To-Do App — Project Description https://claude.ai/share/4bb6faf7-d793-4e77-81a3-f24e5dbec403The LINK WERKT NIET. HELEMAAL BENEDEN STAAN DE OUDE CHATS  AI To-Do App is a smart productivity web application built with HTML, CSS, and JavaScript. It helps users organize their daily tasks, manage priorities, and improve productivity with AI-powered features.
 
 Users can:
 
