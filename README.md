@@ -207,5 +207,5 @@ Code · HTML
 
 
 
-<img width="451" height="677" alt="image" src="https://github.com/user-attachments/assets/32b87024-01e5-407f-a4c3-8f9c6109b147" />
+]
 
